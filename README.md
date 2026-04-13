@@ -3,7 +3,7 @@
 ## 🎯 Project Goal
 This Tableau dashboard is designed to provide **actionable insights** into the sales and profitability performance of a global retail store. The analysis focuses on three core metrics across **Technology, Furniture, and Office Supplies** to support strategic decision-making.
 
----
+
 
 ## Key Metrics & Data Areas
 The dashboard tracks and visualizes performance across the following analytical themes:
@@ -14,13 +14,13 @@ The dashboard tracks and visualizes performance across the following analytical 
 
 This project showcases data visualization and analysis skills in Tableau to deliver actionable insights from sales data.
 
----
+
 
 ## 🛠️ Technical Details
 * **Files:** Tableau Packaged Workbook (`.twbx`), Orders Data (`.csv`), Returns Data (`.csv`), People Data (`.csv`).
 * **Tool:** Tableau Public / Tableau Desktop.
 
----
+
 
 ## ⚖️ Attribution, Licensing, and Future Plans (Crucial for Portfolio)
 This project utilizes the well-known **Superstore Sales Data** structure, which is common in Tableau training and public projects. The original workbook (`Store_Sales_Dashboard.twbx`) was sourced from a public repository.
